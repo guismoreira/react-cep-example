@@ -1,3 +1,3 @@
 # react cep example
 
-I made this example with this nice youtube tutorial [Create React App](https://www.youtube.com/watch?v=oy4cbqE1_qc).
+I made this example with this nice youtube [tutorial](https://www.youtube.com/watch?v=oy4cbqE1_qc).
